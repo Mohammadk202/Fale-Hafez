@@ -58,9 +58,9 @@ hafez_bot/
 1. Run the bot using the following command:
 
    
-bash
+```bash
    python hafez_bot.py
-  
+ ```
 
 2. Open your Telegram app and start a chat with your bot. Use the `/start` command to initiate the conversation and then use `/fal` to receive a random Hafez poem.
 
