@@ -33,17 +33,17 @@ hafez_bot/
 1. Clone the repository:
 
    
-bash
+``` bash
    git clone https://github.com/Mohammadk202/test_bot
    cd hafez-poetry-bot
-  
+```
 
 2. Install the required packages:
 
    
-bash
+```bash
    pip install -r requirements.txt
-  
+ ```
 
 3. Place your `Faal.xlsx` file in the root directory of the project. Ensure the XLSX file has the following columns:
    - Column A: Poem
