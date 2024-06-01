@@ -50,7 +50,8 @@ hafez_bot/
    - Column B: Meaning
 
 4. Add your Telegram bot token to a .env file:
-```echo BOT_TOKEN=your_bot_token_here > .env```
+```sh
+echo BOT_TOKEN=your_bot_token_here > .env```
 
 
 ## Running the Bot
