@@ -6,6 +6,7 @@ This Telegram bot provides random Hafez poems along with their meanings when pro
 
 ## Structure 
 
+```
 hafez_bot/
 ├── __init__.py
 ├── hafez_bot.py
@@ -14,6 +15,7 @@ hafez_bot/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
 
 ## Features
 
