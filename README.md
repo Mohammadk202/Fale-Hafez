@@ -1,5 +1,4 @@
 
-
 # Hafez Poetry Telegram Bot
 
 This Telegram bot provides random Hafez poems along with their meanings when prompted with the `/fal` command. The bot is built using Python and the `python-telegram-bot` library, and it reads the poems from an XLSX file.
@@ -51,7 +50,8 @@ hafez_bot/
 
 4. Add your Telegram bot token to a .env file:
 ```sh
-echo BOT_TOKEN=your_bot_token_here > .env```
+echo BOT_TOKEN=your_bot_token_here > .env
+```
 
 
 ## Running the Bot
